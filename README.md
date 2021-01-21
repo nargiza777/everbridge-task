@@ -1,4 +1,4 @@
-#A solution that is implemented as a single pipeline of Linux commands:
+## A solution that is implemented as a single pipeline of Linux commands:
 
 Clone the repo
 
